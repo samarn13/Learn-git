@@ -1,0 +1,50 @@
+body {
+    background-color: skyblue;
+    font-family: Arial;
+    height: 100%;
+}
+
+.watch{
+    width: 800px;
+    margin: 30px auto;
+    color: #ffff;
+    text-align: center;
+}
+
+h1{
+    font-size: 3rem;
+    font-weight: 100;
+    text-transform: uppercase;
+
+}
+#hr,
+#j,
+#second,
+#jud,
+#tens {
+    font-size: 10em;
+
+}
+
+button {
+    font-size: 20px;
+    border-radius: 5px;
+    background: blue;
+    color: #ffff;
+    border: 1px solid #fff;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 20px 10px;
+    width: 180px;
+    margin: 10px;
+    outline: none;
+
+}
+
+button:hover {
+    transition: 0.3s;
+    background: #fff;
+    border: 1px solid rgb(255, 255, 255);
+    color: red;
+
+}
